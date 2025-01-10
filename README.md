@@ -35,4 +35,4 @@ You can check out a live demo of the project [here](#). *(Replace # with your li
 ## Project Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   https://github.com/Niyazuddin020622/HTML_CSS_JAVASCRIPT.git
